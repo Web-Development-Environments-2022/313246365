@@ -1,1 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7678911&assignment_repo_type=AssignmentRepo)
+# assignment1-meitii1212-main
+user name: meitii1212
+full name: Meital Glick 
+URL Address:https://meitii1212.github.io/assignment1-meitii1212-main/
+ID: 313246365
+Description:
+The site background, meneu and font was decorated all by me, also using neon colors stle from css5
+the site include special photo gallery that i found in the net. 
