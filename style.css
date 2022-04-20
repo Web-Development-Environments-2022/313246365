@@ -7,7 +7,6 @@ body{
 	background-position: center;
 	background-size:100%;
 
-
 	
 }
 
@@ -21,6 +20,16 @@ body{
 	justify-content: center;
 
 }
+
+#about_text{
+  text-align: center;
+  }
+
+/* #facebooklike{
+  z-index: -1;
+  position:relative;
+
+} */
 a{
 	color: white;
 	text-decoration: none;
